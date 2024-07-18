@@ -11,48 +11,6 @@ Add watermarks to PDFs
 Technologies Used
 Frontend: React, HTML5, CSS3, JavaScript
 
-Installation
-To run this project locally, follow these steps:
-
-Clone the repository:
-git clone https://github.com/your-username/PDFNinja.git
-cd PDFNinja
-Install dependencies:
-
-bash
-Copy code
-npm install
-Run the development server:
-
-bash
-Copy code
-npm start
-Open your browser:
-Navigate to http://localhost:3000 to view the app.
-
-Project Structure
-java
-Copy code
-PDFNinja/
-├── public/
-│   ├── index.html
-│   └── ...
-├── src/
-│   ├── components/
-│   │   ├── Navbar.js
-│   │   ├── MergePDF.js
-│   │   ├── SplitPDF.js
-│   │   ├── CompressPDF.js
-│   │   ├── ConvertToPDF.js
-│   │   ├── RotatePDF.js
-│   │   ├── AddWatermark.js
-│   │   └── ...
-│   ├── App.js
-│   ├── index.js
-│   └── ...
-├── package.json
-└── README.md
-
 
 Contributing
 Contributions are welcome! Please fork this repository and submit a pull request for any enhancements or bug fixes.
